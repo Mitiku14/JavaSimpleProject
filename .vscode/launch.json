@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ALL_Patient_Info",
+            "request": "launch",
+            "mainClass": "hospital.ALL_Patient_Info",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Ambulance",
+            "request": "launch",
+            "mainClass": "hospital.Ambulance",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Department",
+            "request": "launch",
+            "mainClass": "hospital.Department",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Employee_info",
+            "request": "launch",
+            "mainClass": "hospital.Employee_info",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "hospital.Login",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "NEW_PATIENT",
+            "request": "launch",
+            "mainClass": "hospital.NEW_PATIENT",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Patient_discharge",
+            "request": "launch",
+            "mainClass": "hospital.Patient_discharge",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Reception",
+            "request": "launch",
+            "mainClass": "hospital.Reception",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "hospital.Room",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "SearchRoom",
+            "request": "launch",
+            "mainClass": "hospital.SearchRoom",
+            "projectName": "telemedicineApp_bd806554"
+        },
+        {
+            "type": "java",
+            "name": "Update_patient_details",
+            "request": "launch",
+            "mainClass": "hospital.Update_patient_details",
+            "projectName": "telemedicineApp_bd806554"
+        }
+    ]
+}
